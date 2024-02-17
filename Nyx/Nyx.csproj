@@ -4,6 +4,8 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <AssemblyName>Ignite.Spark.Nyx</AssemblyName>
+        <RootNamespace>Ignite.Spark.Nyx</RootNamespace>
     </PropertyGroup>
 
 </Project>

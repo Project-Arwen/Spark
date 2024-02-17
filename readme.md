@@ -1,21 +1,21 @@
-# Spark Engine
-## Intelligence Virtualization System
-#### © December 2023, Ignite Laboratories
-#### Author: Robert Petz
+## Spark Engine
+### Intelligence Virtualization System
+##### © December 2023, Ignite Laboratories
+##### Robert Petz
 
 The `Spark` engine consists of several core components that work in tandem with each other to create intelligent design.
 
-## Avalon
+### Avalon
  - The universal pattern management system
 
-## Merlin
+### Merlin
  - The dimensionality and entropic timing coordinator
 
-## Nyx
+### Nyx
  - The virtual intelligence back-end interface
 
-## Warlock
+### Warlock
  - A rendering pipeline
 
-## Common
+### Common
  - Commonly shared components by the above libraries
